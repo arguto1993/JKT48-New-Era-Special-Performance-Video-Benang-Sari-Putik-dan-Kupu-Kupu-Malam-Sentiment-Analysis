@@ -1,2 +1,6 @@
 google-api-python-client
+ipython==8.14.0
 pandas
+transformers
+torch
+tqdm
