@@ -4,6 +4,8 @@ matplotlib
 nltk
 pandas
 sastrawi
+seaborn
 transformers
 torch
 tqdm
+wordcloud
