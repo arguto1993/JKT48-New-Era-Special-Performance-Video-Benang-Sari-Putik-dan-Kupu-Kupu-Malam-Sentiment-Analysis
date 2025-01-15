@@ -1,6 +1,9 @@
 google-api-python-client
-ipython==8.14.0
+ipython
+matplotlib
+nltk
 pandas
+sastrawi
 transformers
 torch
 tqdm
