@@ -1,10 +1,13 @@
 google-api-python-client
+gensim
 ipython
 matplotlib
 nltk
 pandas
 sastrawi
+scikit-learn
 seaborn
+tensorflow
 transformers
 torch
 tqdm
