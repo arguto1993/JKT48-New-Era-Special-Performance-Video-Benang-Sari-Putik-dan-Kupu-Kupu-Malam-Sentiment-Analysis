@@ -6,7 +6,6 @@ nltk
 pandas
 sastrawi
 scikit-learn
-seaborn
 tensorflow
 transformers
 torch
